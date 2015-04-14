@@ -1,0 +1,5 @@
+INDEX VERSION 1.127+C:\Users\Andrei\Desktop\Exercicios Primeira Lista_Linguagem de programação\.metadata\.plugins\org.eclipse.jdt.core
+1921736307.index
+1169268642.index
+3975138256.index
+48343804.index

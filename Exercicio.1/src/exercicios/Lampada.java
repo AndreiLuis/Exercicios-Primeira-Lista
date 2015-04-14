@@ -1,0 +1,26 @@
+package exercicios;
+
+public class Lampada {
+	
+	/*Classe "Lampada' que liga e desliga.
+	 * 
+	 * @author Andrei Luís Amancio
+	 */
+	
+	 
+
+	public static void main(String[] args) {
+		 boolean liga = true;
+		 boolean desliga = false;
+		 
+		if (liga) {
+			 System.out.println("Lampada Ligada");
+		 }
+		 if (desliga){
+			 System.out.println("Lampada Desligada");
+		 }
+			 
+		 }
+		}
+	 
+	

@@ -1,0 +1,25 @@
+package exercicio;
+
+public class RegistroDeAgenda {
+	
+	public static void main(String[] args) { 
+		 
+		 String nome = "ninja da padaria";
+		 String endereço = "ruas dos louco n°100";
+		 int numTelefone = 9355-4682;
+		 String email = "nãosei@hotmail.com";
+		 
+		 System.out.println("Nome da pessoa :");
+		 System.out.println(nome);
+		 
+		 System.out.println("Seu endereço:");
+		 System.out.println(endereço);
+		 
+		 System.out.println("Seu E-mail:");
+		 System.out.println(email);
+	
+		 System.out.println("Seu telefone:");
+		 System.out.println(numTelefone);
+	}
+
+}
